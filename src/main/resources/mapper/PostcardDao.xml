@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.ucardstore.dao.PostcardDao">
+
+    <resultMap id="Postcard" type="com.ucardstore.entity.Postcard">
+        <result column="cardid" property="cardID" javaType="string" jdbcType="VARCHAR"/>
+        <result column="userid" property="userID" javaType="string" jdbcType="VARCHAR"/>
+        <result column="content" property="content" javaType="string" jdbcType="VARCHAR"/>
+        <result column="frontpic" property="frontPic" javaType="string" jdbcType="VARCHAR"/>
+        <result column="backpic" property="backPic" javaType="string" jdbcType="VARCHAR"/>
+        <result column="createtime" property="createTime" javaType="string" jdbcType="VARCHAR"/>
+        <result column="originalcountrycode" property="originalCountryCode" javaType="string" jdbcType="VARCHAR"/>
+        <result column="goalcountrycode" property="goalCountryCode" javaType="string" jdbcType="VARCHAR"/>
+        <result column="isar" property="isAR" javaType="java.lang.Boolean" jdbcType="TINYINT"/>
+        <result column="ishorizon" property="isHorizon" javaType="java.lang.Boolean" jdbcType="TINYINT"/>
+        <result column="imageid" property="imageID" javaType="string" jdbcType="VARCHAR"/>
+        <result column="sendtime" property="sendTime" javaType="string" jdbcType="VARCHAR"/>
+        <result column="receivetime" property="receiveTime" javaType="string" jdbcType="VARCHAR"/>
+        <result column="sendaddress" property="sendAddress" javaType="string" jdbcType="VARCHAR"/>
+        <result column="receiveaddress" property="receiveAddress" javaType="string" jdbcType="VARCHAR"/>
+        <result column="sendcountrycode" property="sendCountryCode" javaType="string" jdbcType="VARCHAR"/>
+        <result column="caption" property="caption" javaType="string" jdbcType="VARCHAR"/>
+        <result column="videocode" property="videoID" javaType="string" jdbcType="VARCHAR"/>
+    </resultMap>
+    
+    <insert id="addPostcard">
+          INSERT INTO postcard
+          (cardid,userid,content,frontpic,backpic,createtime,originalcountrycode,goalcountrycode,isar,ishorizon,imageid,sendtime,receivetime,sendaddress,receiveaddress,sendcountrycode,caption,videocode)
+          VALUES
+          (#{cardID},#{userID},#{content},#{frontPic},#{backPic},#{createTime},#{originalCountryCode},#{goalCountryCode},#{isAR},#{isHorizon},#{imageID},#{sendTime},#{receiveTime},#{sendAddress},#{receiveAddress},#{sendCountryCode},#{caption},#{videoID})
+    </insert>
+    
+
+</mapper>

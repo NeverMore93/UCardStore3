@@ -1,4 +1,4 @@
-package com.ucardstore.entity;
+package com.ucardstore.model;
 
 import com.ucardstore.enums.LanguageCode;
 import lombok.Data;
@@ -11,7 +11,6 @@ import java.io.Serializable;
  */
 @Data
 public class RegisterUser implements Serializable {
-    private static final long serialVersionUID = -7497493213769319364L;
     @NotBlank
     private String email;
 

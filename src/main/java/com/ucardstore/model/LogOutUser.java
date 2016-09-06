@@ -1,4 +1,4 @@
-package com.ucardstore.entity;
+package com.ucardstore.model;
 
 import lombok.Data;
 
@@ -9,7 +9,6 @@ import java.io.Serializable;
  */
 @Data
 public class LogOutUser implements Serializable {
-    private static final long serialVersionUID = -7497403213769313364L;
     private String token;
     private String userID;
 }

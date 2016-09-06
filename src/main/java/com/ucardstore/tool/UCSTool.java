@@ -1,5 +1,11 @@
 package com.ucardstore.tool;
 
+import java.awt.*;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.Base64;
 import java.util.Random;
 
 /**
@@ -25,6 +31,20 @@ public class UCSTool {
             userID+=Integer.toHexString(random.nextInt());
         }
         return userID;
+    }
+
+    public String Str2Pic(String pic,String name,String type) throws IOException {
+
+        String folderpath  = System.getProperty("user.dir") +"//resources//image//"+ type;
+        Path path = Paths.get(folderpath , name+".jpg");
+        Files.write(path, Base64.getDecoder().decode(pic));
+        String pathStr= folderpath+"//"+name+".jpg";
+         return pathStr;
+    }
+
+    public String Pic2Str(String name,String type) throws IOException {
+        String str  = Base64.getEncoder().encodeToString(Files.readAllBytes(Paths.get(System.getProperty("user.dir") +"//resources//image//"+ type +"//"+ name +".jpg")));
+        return str;
     }
 
 

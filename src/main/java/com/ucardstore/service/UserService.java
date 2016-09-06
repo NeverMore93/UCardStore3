@@ -1,9 +1,8 @@
 package com.ucardstore.service;
 
-import com.ucardstore.entity.LogInUser;
-import com.ucardstore.entity.LogOutUser;
-import com.ucardstore.entity.RegisterUser;
-import com.ucardstore.entity.User;
+import com.ucardstore.model.LogInUser;
+import com.ucardstore.model.LogOutUser;
+import com.ucardstore.model.RegisterUser;
 import com.ucardstore.model.Result;
 
 /**

@@ -1,4 +1,4 @@
-package com.ucardstore.entity;
+package com.ucardstore.model;
 
 import lombok.Data;
 import org.hibernate.validator.constraints.NotBlank;
@@ -10,7 +10,6 @@ import java.io.Serializable;
  */
 @Data
 public class LogInUser implements Serializable {
-    private static final long serialVersionUID = -7497403213769319364L;
 
     @NotBlank
     private String email;

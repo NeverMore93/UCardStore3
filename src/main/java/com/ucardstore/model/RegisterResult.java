@@ -9,7 +9,6 @@ import java.io.Serializable;
  */
 @Data
 public class RegisterResult implements Serializable {
-    private static final long serialVersionUID = -7497693213769319364L;
 
     private String tokenStr;
     private String userID;

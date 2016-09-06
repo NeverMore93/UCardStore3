@@ -2,9 +2,9 @@ package com.ucardstore.api;
 
 import com.ucardstore.Constants;
 import com.ucardstore.Exceptions.AccountException;
-import com.ucardstore.entity.LogInUser;
-import com.ucardstore.entity.LogOutUser;
-import com.ucardstore.entity.RegisterUser;
+import com.ucardstore.model.LogInUser;
+import com.ucardstore.model.LogOutUser;
+import com.ucardstore.model.RegisterUser;
 import com.ucardstore.model.Result;
 import com.ucardstore.service.UserService;
 import org.springframework.http.HttpStatus;

@@ -9,7 +9,6 @@ import java.io.Serializable;
  */
 @Data
 public class LogInResult implements Serializable {
-    private static final long serialVersionUID = -7497693213759319364L;
     private String token;
     private String userID;
     private String userName;

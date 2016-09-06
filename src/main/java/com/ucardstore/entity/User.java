@@ -10,7 +10,6 @@ import java.io.Serializable;
  */
 @Data
 public class User implements Serializable {
-    private static final long serialVersionUID = -7497493202769319364L;
     @NotBlank
     private String userID;
     @NotBlank
