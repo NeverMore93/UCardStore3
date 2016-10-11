@@ -7,133 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3e5d32f-4ce0-4153-8f20-c22287f591ea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_jpush_api_jpush_client_3_2_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_17_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_javase_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp_mockwebserver_1_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp_okhttp_1_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_email_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sanselan_sanselan_0_97_incubator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_48.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hsqldb_hsqldb_2_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_imgscalr_imgscalr_lib_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/Exceptions/PostcardException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/EmailTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/JPushClientDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/SMSDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase8.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/api/QRScanController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/api/WeChatController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/dao/UniversityDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/dao/WechatDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/entity/SaveTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/entity/UniversityQRScan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/model/UpdateJpush.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/model/WechatUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/result/AddPostcardResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/service/WechatService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/service/WechatServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/tool/EmailTool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/tool/ImageTool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/tool/JPushTool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UniversityDao.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/BMS.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/error.jsp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/resources/apk/new.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/resources/apk/new.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/entity/LogInUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/entity/LogOutUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/entity/RegisterUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/model/LogInResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/model/RegisterResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/model/Result.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/resources/apk/new.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/resources/apk/new.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/entity/LogInUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/entity/LogOutUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/entity/RegisterUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/model/LogInResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/model/RegisterResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/model/Result.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/Constants.class" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/Constants.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/api/HomeController.class" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/api/HomeController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/api/PostCardController.class" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/api/PostCardController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/api/UserController.class" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/api/UserController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/dao/UserDao.class" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/dao/UserDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/entity/User.class" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/entity/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/service/UserService.class" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/service/UserService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/service/UserServiceImpl.class" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/service/UserServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/tool/UCSTool.class" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/ucardstore/tool/UCSTool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/Constants.class" afterPath="$PROJECT_DIR$/target/classes/com/ucardstore/Constants.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/api/HomeController.class" afterPath="$PROJECT_DIR$/target/classes/com/ucardstore/api/HomeController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/api/PostCardController.class" afterPath="$PROJECT_DIR$/target/classes/com/ucardstore/api/PostCardController.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/email.properties" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/api/UserController.class" afterPath="$PROJECT_DIR$/target/classes/com/ucardstore/api/UserController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/dao/UserDao.class" afterPath="$PROJECT_DIR$/target/classes/com/ucardstore/dao/UserDao.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/entity/User.class" afterPath="$PROJECT_DIR$/target/classes/com/ucardstore/entity/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/service/UserService.class" afterPath="$PROJECT_DIR$/target/classes/com/ucardstore/service/UserService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/service/UserServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/ucardstore/service/UserServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/tool/UCSTool.class" afterPath="$PROJECT_DIR$/target/classes/com/ucardstore/tool/UCSTool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/api_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/api_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api.iml" afterPath="$PROJECT_DIR$/api.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/Constants.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/Constants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/api/HomeController.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/api/HomeController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/api/PostCardController.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/api/PostCardController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/api/UserController.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/api/UserController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/dao/PostcardDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/dao/PostcardDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/dao/UserDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/dao/UserDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/entity/User.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/entity/User.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/model/LogInUser.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/model/LogInUser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/model/RegisterUser.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/model/RegisterUser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/service/PostcardService.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/service/PostcardService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/service/PostcardServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/service/PostcardServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/service/UserService.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/service/UserService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/service/UserServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/service/UserServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/tool/UCSTool.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/tool/UCSTool.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/mapper/PostcardDao.xml" afterPath="$PROJECT_DIR$/src/main/resources/mapper/PostcardDao.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserDao.xml" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserDao.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-context.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-context.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-mvc.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-mvc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-mybatis.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-mybatis.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/jdbc.properties" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/jdbc.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/mapper/UserDao.xml" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/mapper/UserDao.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/spring/spring-context.xml" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/spring/spring-context.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/spring/spring-mvc.xml" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/spring/spring-mvc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/spring/spring-mybatis.xml" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/spring/spring-mybatis.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/api-1.0.0-BUILD-SNAPSHOT/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/mapper/UserDao.xml" afterPath="$PROJECT_DIR$/target/classes/mapper/UserDao.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring/spring-context.xml" afterPath="$PROJECT_DIR$/target/classes/spring/spring-context.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring/spring-mvc.xml" afterPath="$PROJECT_DIR$/target/classes/spring/spring-mvc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/spring/spring-mybatis.xml" afterPath="$PROJECT_DIR$/target/classes/spring/spring-mybatis.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/model/LogInResult.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/result/LogInResult.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/model/NewPostcard.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/model/AddPostcard.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/model/RegisterResult.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/result/RegisterResult.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/model/Result.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/result/Result.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/ucardstore/model/RegisterUser.class" afterPath="$PROJECT_DIR$/target/classes/com/ucardstore/model/RegisterUser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/SMSDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/SMSDemo.java" />
     </list>
     <ignored path="api.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -220,112 +97,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ImageTool.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/tool/ImageTool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3135">
-              <caret line="193" column="56" selection-start-line="193" selection-start-column="56" selection-end-line="193" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BMS.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/BMS.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/api/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RegisterUser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/model/RegisterUser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SMSDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/SMSDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="551">
+              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AsyncHttpClient.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/asynchttpclient/async-http-client/2.0.2/async-http-client-2.0.2-sources.jar!/org/asynchttpclient/AsyncHttpClient.java">
+      <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/api/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-278">
-              <caret line="129" column="17" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="17" />
+            <state relative-caret-position="342">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JPushClientDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/JPushClientDemo.java">
+      <file leaf-file-name="PostCardController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/api/PostCardController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="42" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDao.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserDao.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="90" selection-start-line="12" selection-start-column="90" selection-end-line="12" selection-end-column="90" />
+            <state relative-caret-position="420">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
               <folding>
-                <marker date="1476150981622" expanded="true" signature="1090:1258" ph="INSERT INTO user... " />
-                <marker date="1476150981622" expanded="true" signature="1379:1453" ph="SELECT email... user" />
-                <marker date="1476150981622" expanded="true" signature="1575:1651" ph="SELECT email... user" />
-                <marker date="1476150981622" expanded="true" signature="1753:1863" ph="UPDATE user " />
-                <marker date="1476150981622" expanded="true" signature="1984:2081" ph="SELECT email... user" />
-                <marker date="1476150981622" expanded="true" signature="2144:2203" ph="UPDATE user " />
+                <element signature="e#788#855#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <file leaf-file-name="Resource.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/javax/annotation/Resource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="-38">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Image.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/javafx-src.zip!/javafx/scene/image/Image.java">
+      <file leaf-file-name="Resources.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/javax/annotation/Resources.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="634" column="27" selection-start-line="634" selection-start-column="27" selection-end-line="634" selection-end-column="27" />
+            <state relative-caret-position="648">
+              <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -769,12 +587,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: org.asynchttpclient:async-http-client:2.0.2" />
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="async-http-client-2.0.2.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -783,26 +597,96 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: org.asynchttpclient:async-http-client:2.0.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="async-http-client-2.0.2.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="asynchttpclient" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="UCardStore3" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="api" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UCardStore3" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UCardStore3" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UCardStore3" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ucardstore" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UCardStore3" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ucardstore" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.atlassian.clover.idea.projectview.PsiDirectoryNodeWrapper" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -829,27 +713,7 @@
       <recent name="com.ucardstore.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.UCardStore">
-    <configuration default="false" name="EmailTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.ucardstore.TestCase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.ucardstore.TestCase.EmailTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="api" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.SMSDemo">
     <configuration default="false" name="EmailTool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -918,6 +782,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.ucardstore.TestCase.JPushClientDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="api" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SMSDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ucardstore.TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ucardstore.TestCase.SMSDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1454,19 +1338,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.UCardStore" />
-      <item index="1" class="java.lang.String" itemvalue="Application.EmailTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.EmailTool" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestCase7" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestCase6" />
-      <item index="5" class="java.lang.String" itemvalue="Application.JPushClientDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.EmailTool" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestCase7" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestCase6" />
+      <item index="4" class="java.lang.String" itemvalue="Application.JPushClientDemo" />
+      <item index="5" class="java.lang.String" itemvalue="Application.SMSDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.JPushClientDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestCase6" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestCase7" />
-        <item index="3" class="java.lang.String" itemvalue="Application.EmailTool" />
-        <item index="4" class="java.lang.String" itemvalue="Application.EmailTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SMSDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.JPushClientDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestCase6" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestCase7" />
+        <item index="4" class="java.lang.String" itemvalue="Application.EmailTool" />
       </list>
     </recent_temporary>
   </component>
@@ -1535,7 +1419,7 @@
       <workItem from="1475926514501" duration="98000" />
       <workItem from="1475975800401" duration="19199000" />
       <workItem from="1476063019140" duration="25400000" />
-      <workItem from="1476148736396" duration="8002000" />
+      <workItem from="1476148736396" duration="13262000" />
     </task>
     <task id="LOCAL-00001" summary="完成了实体类PostCard的建立和mapper">
       <created>1473147660297</created>
@@ -1548,7 +1432,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="464043000" />
+    <option name="totallyTimeSpent" value="469303000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1560,7 +1444,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1661,90 +1545,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/PostcardDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-          <folding>
-            <element signature="n#mapper#0;n#!!top" expanded="false" />
-            <element signature="n#resultMap#0;n#mapper#0;n#!!top" expanded="false" />
-            <element signature="n#insert#0;n#mapper#0;n#!!top" expanded="false" />
-            <element signature="n#select#0;n#mapper#0;n#!!top" expanded="false" />
-            <element signature="n#select#1;n#mapper#0;n#!!top" expanded="false" />
-            <element signature="n#update#0;n#mapper#0;n#!!top" expanded="false" />
-            <marker date="1475034198606" expanded="true" signature="2498:3072" ph="INSERT INTO postcard... " />
-            <marker date="1475034198606" expanded="true" signature="3199:3244" ph="SELECT * fro... postcard" />
-            <marker date="1475034198606" expanded="true" signature="3368:3449" ph="SELECT * FRO... *" />
-            <marker date="1475034198606" expanded="true" signature="3384:3423" ph="SELECT * fro... postcard" />
-            <marker date="1475034198606" expanded="true" signature="3526:3599" ph="UPDATE postc... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.2.9/jpush-client-3.2.9.jar!/cn/jpush/api/utils/Base64.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-342">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.4/commons-io-2.4-sources.jar!/org/apache/commons/io/IOUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="24" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/TestCase6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/cn/jpush/api/jpush-client/3.2.9/jpush-client-3.2.9.jar!/cn/jpush/api/common/connection/HttpProxy.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1945,16 +1745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/api/PostCardController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
-          <folding>
-            <element signature="e#788#855#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/service/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -2114,16 +1904,106 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/asynchttpclient/async-http-client/2.0.2/async-http-client-2.0.2-sources.jar!/org/asynchttpclient/AsyncHttpClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-278">
+        <state relative-caret-position="292">
           <caret line="129" column="17" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/asynchttpclient/async-http-client/2.0.2/async-http-client-2.0.2-sources.jar!/org/asynchttpclient/HttpResponseBodyPart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/asynchttpclient/async-http-client/2.0.2/async-http-client-2.0.2-sources.jar!/org/asynchttpclient/Realm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-848">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/asynchttpclient/async-http-client/2.0.2/async-http-client-2.0.2-sources.jar!/org/asynchttpclient/SslEngineFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/asynchttpclient/async-http-client/2.0.2/async-http-client-2.0.2-sources.jar!/org/asynchttpclient/SignatureCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/asynchttpclient/async-http-client/2.0.2/async-http-client-2.0.2-sources.jar!/org/asynchttpclient/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/asynchttpclient/async-http-client/2.0.2/async-http-client-2.0.2-sources.jar!/org/asynchttpclient/Param.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/asynchttpclient/async-http-client/2.0.2/async-http-client-2.0.2-sources.jar!/org/asynchttpclient/RequestBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/api/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/api/PostCardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="e#788#855#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/javax/annotation/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/javax/annotation/Resources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ucardstore/TestCase/SMSDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="551">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
           <folding />
         </state>
       </provider>
