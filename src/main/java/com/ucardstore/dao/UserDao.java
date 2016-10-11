@@ -1,6 +1,7 @@
 package com.ucardstore.dao;
 
 import com.ucardstore.entity.User;
+import org.apache.ibatis.annotations.Update;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.stereotype.Repository;
 
@@ -15,5 +16,7 @@ public interface UserDao {
     User findUserByEmail(String email);
     void updateUserByUser(User user);
     User findUserByUserID(String userID);
+    User findUserByToken(String token);
+    void updatejpushIDByToken(String jpushID,String token);
 
 }

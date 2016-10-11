@@ -5,6 +5,20 @@
 	   xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
 	
 	<!-- Root Context: defines shared resources visible to all other web components -->
+	
+	<bean class="org.apache.commons.mail.HtmlEmail" name="htmlEmail">
+		<property name="authenticator" ref="defaultAuthenticator"/>
+		<property name="hostName" value="smtp.exmail.qq.com"/>
+		<property name="from" value="wentao.yuan@ucardstore.com"/>
+		<property name="charset" value="utf-8"/>
+		<property name="subject" value="WELCOME TO UCARDSTORE"/>
+
+	</bean> 
+	
+	<bean class="org.apache.commons.mail.DefaultAuthenticator" id="defaultAuthenticator">
+		<constructor-arg value="wentao.yuan@ucardstore.com"/>
+		<constructor-arg value="YWTywt19938111949"/>
+	</bean>
 
 		
 </beans>

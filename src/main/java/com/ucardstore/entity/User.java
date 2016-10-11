@@ -19,6 +19,14 @@ public class User implements Serializable {
     @NotBlank
     private String password;
     @NotBlank
+
     private String email;
+
+    private String nickName;
+
+    @NotBlank
+    private String appIdentifier;
+
+    private String jpushID;
 
 }

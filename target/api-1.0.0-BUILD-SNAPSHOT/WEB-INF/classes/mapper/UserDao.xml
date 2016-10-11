@@ -8,10 +8,13 @@
         <result property="userName" column="username" javaType="string" jdbcType="VARCHAR"/>
         <result property="password" column="password" javaType="string" jdbcType="VARCHAR"/>
         <result property="token" column="token" javaType="string" jdbcType="VARCHAR"/>
+        <result property="nickName" column="nickname" javaType="string" jdbcType="VARCHAR"/>
+        <result property="appIdentifier" column="appidentifier" javaType="string" jdbcType="VARCHAR"/>
+        <result property="jpushID" column="jpushID" javaType="string" jdbcType="VARCHAR"/>
     </resultMap>
 
     <insert id="register" parameterType="com.ucardstore.entity.User">
-        INSERT INTO user (email,userid,username,password,token) VALUES (#{email},#{userID},#{userName},#{password},#{token})
+        INSERT INTO user (email,userid,username,password,token,appidentifier,nickname) VALUES (#{email},#{userID},#{userName},#{password},#{token},#{appIdentifier},#{nickName})
     </insert>
 
     <select id="findUserByEmail" parameterType="string" resultType="com.ucardstore.entity.User">
@@ -22,13 +25,16 @@
         SELECT email,userid,username,password,token from user WHERE userid=#{userID}
     </select>
 
-    <update id="updateUserByUser" parameterType="string">
+    <update id="updateUserByUser" parameterType="com.ucardstore.entity.User">
         UPDATE user SET email=#{email},username=#{userName},password=#{password},token=#{token} WHERE userid=#{userID}
     </update>
 
+    <select id="findUserByToken" parameterType="string" resultType="com.ucardstore.entity.User">
+        SELECT email,userid,username,password,token,nickname,appidentifier from user WHERE token=#{token}
+    </select>
 
-
-
-
+    <update id="updatejpushIDByToken">
+        UPDATE user SET jpushID = #{jpushID} WHERE token = #{token}
+    </update>
 
 </mapper>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.ucardstore.dao.UniversityDao">
+    <resultMap id="university" type="com.ucardstore.entity.UniversityQRScan">
+        <result property="universityName" column="UniversityName" javaType="string" jdbcType="VARCHAR"/>
+        <result property="scanTime" column="ScanTime" javaType="string" jdbcType="VARCHAR"/>
+        <result property="user" column="User" javaType="string" jdbcType="VARCHAR"/>
+        <result property="host" column="Host" javaType="string" jdbcType="VARCHAR"/>
+        <result property="addr" column="Addr" javaType="string" jdbcType="VARCHAR"/>
+    </resultMap>
+
+    <insert id="add" parameterType="com.ucardstore.entity.UniversityQRScan">
+            INSERT INTO university (UniversityName,ScanTime,User,Host,Addr) VALUES (#{universityName},#{scanTime},#{user},#{host},#{addr})
+    </insert>
+
+</mapper>

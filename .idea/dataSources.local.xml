@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - @localhost" uuid="99d4bc59-e4a2-4ba1-83bb-9e73823da937">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <ssh-properties>
+        <enabled>true</enabled>
+        <proxy-host>139.196.236.194</proxy-host>
+        <proxy-port>22</proxy-port>
+        <secret-storage>master_key</secret-storage>
+        <user>ucadmin</user>
+        <use-password>true</use-password>
+        <password>df8bdffadfe6dffcdfecdf90dfdbdfe0dffbdf8fdfd8dfe6</password>
+      </ssh-properties>
+    </data-source>
+  </component>
+</project>
